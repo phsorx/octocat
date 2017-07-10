@@ -1,1 +1,1 @@
-hello, i am red octocat
+hello, i am RED octocat
